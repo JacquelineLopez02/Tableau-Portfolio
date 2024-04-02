@@ -1,2 +1,2 @@
 # Tableau-Portfolio
-// Consist of four Tableau projects
+Consist of four Tableau projects
